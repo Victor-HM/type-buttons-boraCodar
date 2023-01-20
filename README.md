@@ -32,7 +32,7 @@ Este projeto é o desafio 3 dos challengers semanais da Rocketseat #boraCodar
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](www.figma.com/file/E3FsP5hNUlUUEmpsTSHATh/%23boraCodar---Desafio-3-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/E3FsP5hNUlUUEmpsTSHATh/%23boraCodar---Desafio-3-(Community)). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
